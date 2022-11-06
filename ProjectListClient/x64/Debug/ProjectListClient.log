@@ -1,0 +1,64 @@
+﻿  main.c
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\HeaderProject.h(370,92): warning C4031: second formal parameter list longer than the first list
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\main.c(11,19): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILE **'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\main.c(11,16): warning C4024: 'openFile': different types for formal and actual parameter 1
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\main.c(12,49): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\main.c(12,45): warning C4024: 'readFileAndCreateList': different types for formal and actual parameter 4
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\main.c(12,56): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\main.c(12,50): warning C4024: 'readFileAndCreateList': different types for formal and actual parameter 5
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\main.c(12,62): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\main.c(12,57): warning C4024: 'readFileAndCreateList': different types for formal and actual parameter 6
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\main.c(12,68): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\main.c(12,63): warning C4024: 'readFileAndCreateList': different types for formal and actual parameter 7
+  project.c
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\HeaderProject.h(370,92): warning C4031: second formal parameter list longer than the first list
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(14,32): warning C4020: 'addToSortrdList': too many actual parameters
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(147,23): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(147,19): warning C4024: 'StrNotQuit': different types for formal and actual parameter 1
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(152,24): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(152,20): warning C4024: 'StrNotQuit': different types for formal and actual parameter 1
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(159,8): warning C4013: 'checkNull' undefined; assuming extern returning int
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(166,22): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILE **'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(166,19): warning C4024: 'openFile': different types for formal and actual parameter 1
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(179,23): warning C4028: formal parameter 1 different from declaration
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(183,15): warning C4047: 'function': 'char *' differs in levels of indirection from 'char ***'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(183,11): warning C4024: 'quit': different types for formal and actual parameter 1
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(187,17): warning C4028: formal parameter 1 different from declaration
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(189,31): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(189,28): warning C4024: 'strcmp': different types for formal and actual parameter 1
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(298,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(307,9): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(211,8): warning C4101: 'date': unreferenced local variable
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(336,11): warning C4098: 'sameIdAndDifName': 'void' function returning a value
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(481,22): warning C4018: '>': signed/unsigned mismatch
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(481,90): warning C4018: '>': signed/unsigned mismatch
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(482,80): warning C4018: '>': signed/unsigned mismatch
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(484,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(484,90): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(485,80): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(551,34): warning C4113: 'int (__cdecl *)(char *,Client *)' differs in parameter lists from 'int (__cdecl *)(char *,Client *,int *)'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(562,34): warning C4113: 'int (__cdecl *)(char *,Client *)' differs in parameter lists from 'int (__cdecl *)(char *,Client *,int *)'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(573,34): warning C4113: 'int (__cdecl *)(char *,Client *)' differs in parameter lists from 'int (__cdecl *)(char *,Client *,int *)'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(592,34): warning C4113: 'int (__cdecl *)(char *,Client *)' differs in parameter lists from 'int (__cdecl *)(char *,Client *,int *)'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(512,1): warning C4113: 'int (__cdecl *)(char *,Client *,int *)' differs in parameter lists from 'int (__cdecl *)(char *,Client *)'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(699,1): warning C4029: declared formal parameter list different from definition
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(700,44): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(700,40): warning C4024: 'createClient': different types for formal and actual parameter 3
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(700,52): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(700,46): warning C4024: 'createClient': different types for formal and actual parameter 4
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(700,59): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(700,54): warning C4024: 'createClient': different types for formal and actual parameter 5
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(700,66): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(700,61): warning C4024: 'createClient': different types for formal and actual parameter 6
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(765,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(847,8): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(870,8): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(962,3): warning C4033: 'inDigitDate' must return a value
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(974,3): warning C4033: 'inDigit' must return a value
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(987,3): warning C4033: 'inDigOrPoint' must return a value
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(984,6): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(969): warning C4715: 'inDigitDate': not all control paths return a value
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(981): warning C4715: 'inDigit': not all control paths return a value
+C:\Users\User\source\repos\ProjectListClient\ProjectListClient\project.c(993): warning C4715: 'inDigOrPoint': not all control paths return a value
+  ProjectListClient.vcxproj -> C:\Users\User\source\repos\ProjectListClient\x64\Debug\ProjectListClient.exe
