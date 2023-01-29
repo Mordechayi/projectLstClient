@@ -1,0 +1,16 @@
+﻿  Prompt.c
+C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\ListCustomersDebt\Prompt.c(56,6): warning C4013: 'quit' undefined; assuming extern returning int
+C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\ListCustomersDebt\Prompt.c(125,9): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\ListCustomersDebt\Prompt.c(179,40): warning C4013: 'inDigit' undefined; assuming extern returning int
+C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\ListCustomersDebt\Prompt.c(245,22): warning C4018: '>': signed/unsigned mismatch
+C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\ListCustomersDebt\Prompt.c(245,90): warning C4018: '>': signed/unsigned mismatch
+C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\ListCustomersDebt\Prompt.c(246,80): warning C4018: '>': signed/unsigned mismatch
+C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\ListCustomersDebt\Prompt.c(248,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\ListCustomersDebt\Prompt.c(248,90): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\ListCustomersDebt\Prompt.c(249,80): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\ListCustomersDebt\Prompt.c(316,34): warning C4113: 'int (__cdecl *)(char *,Client *)' differs in parameter lists from 'int (__cdecl *)(char *,Client *,int *)'
+C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\ListCustomersDebt\Prompt.c(327,34): warning C4113: 'int (__cdecl *)(char *,Client *)' differs in parameter lists from 'int (__cdecl *)(char *,Client *,int *)'
+C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\ListCustomersDebt\Prompt.c(338,34): warning C4113: 'int (__cdecl *)(char *,Client *)' differs in parameter lists from 'int (__cdecl *)(char *,Client *,int *)'
+C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\ListCustomersDebt\Prompt.c(357,34): warning C4113: 'int (__cdecl *)(char *,Client *)' differs in parameter lists from 'int (__cdecl *)(char *,Client *,int *)'
+C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\ListCustomersDebt\Prompt.c(276,37): warning C4113: 'int (__cdecl *)(char *,Client *,int *)' differs in parameter lists from 'int (__cdecl *)(char *,Client *)'
+  ListCustomersDebt.vcxproj -> C:\Users\mordechai\Desktop\ListCustomersDebt\ListCustomersDebt\x64\Debug\ListCustomersDebt.exe
